@@ -1,1 +1,1 @@
-The first notebook, Flipkart_Laptops.ipynb, requires the entire URL to run and execute. The other notebooks, namely Flipkart_Laptop_WebScrap_Project.ipynb, only require the brand name that we are looking for.
+The first notebook, Flipkart_Laptops.ipynb, requires the entire URL to run and execute. The other notebook, namely Flipkart_Laptop_WebScrap_Project.ipynb, only requires the brand name that we are looking for.
